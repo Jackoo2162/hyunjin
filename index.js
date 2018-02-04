@@ -24,4 +24,4 @@ bot.on('ready', ()=>{
   });
 });
 
-bot.login('NDA4NTU3NjU4NDMwMjQyODE3.DVR90g.HF-0HAbcunolG_KMRRn3BBoQuCs');
+bot.login('');
